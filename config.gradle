@@ -1,0 +1,4 @@
+ext {
+    // 包名，用于存放APT生成的类文件
+    packageNameForAPT = "com.zxh.arouter.apt"
+}
